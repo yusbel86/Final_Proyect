@@ -1,7 +1,5 @@
-import React from 'react';
+import React from "react";
 
 export const Carrito = () => {
-    return(
-        <h1>Carrito de Compras</h1>
-    );
-} 
+	return <h1>Carrito de Compras</h1>;
+};
